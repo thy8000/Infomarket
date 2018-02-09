@@ -1,2 +1,9 @@
 # Infomarket-Visual-Studio-CSharp
- Infomarket is a project that was created in C # in Visual Studio + SQLServer database. This project consists of a program that will register customers, products, manufacturers, etc ... And the user will be able to place orders with customers, products and manufacturers registered, and everything will be stored in the database. In addition, in the program you can search the requests you have made.
+ Infomarket is a project created in Visual Studio with the C # language and connected to the DB with SQLServer. This is my first project, and I did it in the second semester of college.
+    Infomarket is a program in which you can register customers, products and orders, change them or delete them. The program features are:
+
+- Register / Browse / Update / Delete Manufacturers
+- Register / View / Update / Delete Products
+- Register / View / Update / Delete Clients
+- Register / Request / Update / Delete Orders
+- Register / Browse / Update / Delete Employees
