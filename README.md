@@ -1,5 +1,3 @@
-<h1><center>Infomarket</center></h1>
-
 <h1>Sobre o programa</h1>
 
 Infomarket é um programa para Desktop cujo objetivo é o controle de funcionários, clientes, produtos e pedidos para lojas. Neste programa, você consegue pesquisar, cadastrar, alterar e excluir fabricante de produtos, produtos, clientes, funcionários e produtos de uma loja no banco de dados.
