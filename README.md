@@ -20,3 +20,16 @@ Depois que você tiver o Visual Studio e o Infomarket instalado em seu computado
 - Extraia o arquivo Infomarket em um local de sua preferência;
 - Abra a pasta Infomarket, dentro dela vai ter outra pasta chamada Infomarket, abra ela denovo;
 - Clique com o botão direito no arquivo Infomarket.sln(Solução do Visual Studio do Projeto), clique na opção "abrir com" e selecione o Visual Studio;
+- Depois que o Visual Studio estiver aberto e o projeto for carregado, clique na guia "Exibir" e abra o "Gerenciador de soluções";
+- Clique com o botão direito no arquivo Infomarket.mdf e clique em Propriedades;
+- Copie o endereço da opção Caminho Completo;
+- Clique duas vezes no arquivo Conexao.cs;
+- Cole o endereço copiado na linha 14 do código da variável con onde está escrito "COPIECAMINHODOBDAQUI";
+- Salve o projeto, clique na guia Depurar e execute o projeto com a opção "Iniciar sem Depurar".
+- Pronto ! Assim você terá conectado o projeto ao banco de dados e executará o programa funcionando.
+
+<h1>Imagens e demonstrações do programa</h1>
+
+Você poderá ter acesso aos prints do programa e um vídeo de demonstração do uso do programa no arquivo ScreenshotsVideos.rar
+
+
