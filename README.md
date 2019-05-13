@@ -30,7 +30,7 @@ Depois que você tiver o Visual Studio e o Infomarket instalado em seu computado
 
 <h1>Imagens e demonstrações do programa</h1>
 
-Você poderá ter acesso aos prints do programa e um vídeo de demonstração do uso do programa no arquivo ScreenshotsVideos.rar
+Você poderá ter acesso aos prints do programa e um vídeo de demonstração do uso do programa no arquivo ScreenshotsVideos.rar ou você pode acessar o portfólio desse programa com imagens e vídeos no link https://www.behance.net/gallery/80153453/Infomarket
 
 <h1>Participantes</h1>
 
