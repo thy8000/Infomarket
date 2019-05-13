@@ -32,4 +32,8 @@ Depois que você tiver o Visual Studio e o Infomarket instalado em seu computado
 
 Você poderá ter acesso aos prints do programa e um vídeo de demonstração do uso do programa no arquivo ScreenshotsVideos.rar
 
+<h1>Participantes</h1>
+
+Thunay Moreira de Soares(Planejamento, Design e Desenvolvimento)
+
 
